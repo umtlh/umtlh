@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python 
+Python & Java 
 
 
 ## 🌐 Socials:
